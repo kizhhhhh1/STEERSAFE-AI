@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214133637038",
+    "project_id": "steersafe-ai",
+    "storage_bucket": "steersafe-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214133637038:android:d5d47873d58687fba9d23f",
+        "android_client_info": {
+          "package_name": "com.steersafe.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOqciMeXPi1ArmX_-Wm_UME95p1sJdZl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
