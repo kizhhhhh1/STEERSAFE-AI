@@ -1,0 +1,19 @@
+# Portable Git
+.git-portable/
+
+# Gradle / Android build files
+.gradle/
+build/
+*.apk
+*.aar
+*.jar
+capture.png
+*.log
+
+# Firebase keys / config files that shouldn't be checked in (optional, but keep default ones)
+# node_modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
